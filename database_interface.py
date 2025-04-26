@@ -1,6 +1,5 @@
 import pickle
 import os
-
 class database_interface():
 
     def __init__(self, pickle_file_name = "rock_paper_scissors.pkl"):
