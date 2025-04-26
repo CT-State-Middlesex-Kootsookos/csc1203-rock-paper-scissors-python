@@ -1,0 +1,14 @@
+{
+  "name": "csc2274-assignment-start",
+  "version": "1.0.0",
+  "description": "A starter repository for CSC2274 assignments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Peter J. Kootsookos",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  }
+}
