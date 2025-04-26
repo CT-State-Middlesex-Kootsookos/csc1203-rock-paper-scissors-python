@@ -4,7 +4,7 @@ def test_creation():
     db = database_interface()
     assert db.read is not None
     assert db.store is not None
-    assert db.file_name == "rock_paper_scissors.pl"
+    assert db.file_name == "rock_paper_scissors.pkl"
 
 def test_read():
     db = database_interface()
